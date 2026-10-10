@@ -2,7 +2,7 @@
 
 ---
 
-# right-arrow (r-arrow)
+# right arrow (r-arrow)
 
 Основные веб-ресурсы проекта:
 * **Официальный сайт:** [r-arrow.ru](https://r-arrow.ru/)
